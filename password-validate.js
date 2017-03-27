@@ -1,6 +1,8 @@
 /**
  * Validación de nivel de seguridad y confirmación de contraseña con barra de progreso
  * 
+ * Date: 2015-06-10
+ * 
  * @author Diego Malagon <diegomalagonh@gmail.com>
  */
 var PasswordValidate = (function(){
